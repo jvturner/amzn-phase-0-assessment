@@ -1,5 +1,35 @@
 //////////STEP #1 Create an array assign the variable katzDeli//////////////
-const katzDeli = ["Jerry Rice", "Emmitt Smith", "Will Smith"]
+const katzDeli = [];
+const customerNames = ['Ada', 'Grace', 'Kent']
+line Function(){}
+
+function takeANumber(katzDeli, name){
+    return message
+}
+console.log(`Welcome, ${name} You are number 1 in line.}`)
+
+function takeANumber(katzDeli, 'Ada');
+
+function takeANumber(katzDeli, 'Grace');
+
+function takeANumber(katzDeli, 'Kent');
+
+
+
+
+
+
+
+
+function takeANumber(katzDeli, 'Ada'){
+    console.log(`Welcome, ${name} you are number (arr.length + 1) in line.`)
+}
+;
+
+
+
+
+
 
 // ///////STEP #2 Create a function for line pass in the array of names katzDeli ///////////////////////
 
@@ -11,12 +41,12 @@ function line(array){
         {
             console.log ("The line is currently: 1." + array[0] + "2." + array[1] + "3. " + array[3] )
         }
-    }
+ }
    
     }
 
-    // console.log(1. katzDeli[0], 2. katzDeli[1], 3. katzDeli[2])
-
+ /////////////////////////////////////STEP #3/////////////////////////////////////////////   // 
+function takeANumber(katzDeli, name)
 
 
 
